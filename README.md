@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalzanoun&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudalzanoun" /> </p>
 
-
+<p>I am currently working and studying</p>
 <p align="left"> <a href="https://twitter.com/mahmoudalzanoun" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudalzanoun?logo=twitter&style=for-the-badge" alt="mahmoudalzanoun" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
