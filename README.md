@@ -24,3 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudalzanoun&show_icons=true&locale=en" alt="mahmoudalzanoun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudalzanoun&" alt="mahmoudalzanoun" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalzanoun&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudalzanoun" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudalzanoun" alt="mahmoudalzanoun" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mahmoudalzanoun" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudalzanoun?logo=twitter&style=for-the-badge" alt="mahmoudalzanoun" /></a> </p>
