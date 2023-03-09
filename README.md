@@ -12,7 +12,7 @@
 
 - 🏫 I am a recent graduate of Web Programming from the University College of Applied Sciences
 
-- 🌱 I’m currently learning **Laravel10**
+- 🌱  I’m currently learning  Asp.Net Core
 
 - 📫 How to reach me **mahmoud.alzanoun@gmail.com**
 
