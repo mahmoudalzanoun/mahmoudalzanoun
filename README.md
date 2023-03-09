@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahmoudalzanoun" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudalzanoun?logo=twitter&style=for-the-badge" alt="mahmoudalzanoun" /></a> </p>
 
-- 🔭 I’m currently working on Laravel Framework version 9
+- 🔭 I’m currently working on Laravel Framework version 10
 
 - 🏫 I am a recent graduate of Web Programming from the University College of Applied Sciences
 
